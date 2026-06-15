@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Abrir MySQL XAMPP
+Comment=Inicia XAMPP y abre MySQL
+Exec=gnome-terminal -- bash -c "/home/santi-kun/Scripts/Linux/abrir-mysql-xampp.sh; exec bash"
+Icon=/home/santi-kun/.local/share/applications/mysql.png
+Terminal=false
+Type=Application
+Categories=Development;Database;

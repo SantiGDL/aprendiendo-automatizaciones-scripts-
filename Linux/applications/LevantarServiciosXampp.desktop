@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Levantar Servicios Xammp
+Comment=Inicia servicios de xampp (php mysql y ProFTPD)
+Exec=gnome-terminal -- bash -c "sudo /opt/lampp/lampp start; read -p 'Presioná Enter para cerrar...'"
+Icon=/home/santi-kun/.local/share/applications/Xammp.png
+Terminal=false
+Type=Application
+Categories=Development;Database;
